@@ -1,0 +1,13 @@
+Partlist exported from G:/Xerc-2-Remake/Xerc2/xerc2-3-2.sch at 5/5/2017 8:40 PM
+
+Qty Value         Device                    Package      Parts                                           Description                  PROD_ID   VALUE        
+1                 DIODESOD-323F             SOD-323F     D1                                              Diode                                               
+1                 M05X2SHD                  2X5-SHROUDED JP1                                             Header 5x2                                          
+10                SMD5                      SMD2,54-5,08 DONGLE, EB, GND, IR+, IR-, IRD, PB, PO, PWR, SL SMD PAD                                             
+1   0.1uF         0.1UF-25V(+80/-20%)(0603) 0603-CAP     C2                                              CAP-00810                    CAP-00810 0.1uF        
+1   100           RESISTOR0603              0603-RES     R3                                              Resistor                                            
+1   10k           RESISTOR0603              0603-RES     R1                                              Resistor                                            
+2   10k           RESISTOR0603-RES          0603-RES     R2, R4                                          Resistor                                            
+1   4.7uf         CAP0603-CAP               0603-CAP     C1                                              Capacitor                                           
+1   Q1            MMBTA56-SOT23             SOT23        MMBT3906                                        PNP Transistor                                      
+1   Tiny85-20-SMT ATTINY45TINY85-20-SMT     SO08-EIAJ    U1                                              Atmel 8-pin 2/4/8kB flash uC IC-09092  Tiny85-20-SMT

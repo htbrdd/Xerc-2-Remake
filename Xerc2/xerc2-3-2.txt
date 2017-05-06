@@ -1,0 +1,23 @@
+Partlist exported from G:/Xerc-2-Remake/Xerc2/xerc2-3-2.sch at 5/5/2017 8:40 PM
+
+Part     Value         Device                    Package      Description                  PROD_ID   VALUE        
+C1       4.7uf         CAP0603-CAP               0603-CAP     Capacitor                                           
+C2       0.1uF         0.1UF-25V(+80/-20%)(0603) 0603-CAP     CAP-00810                    CAP-00810 0.1uF        
+D1                     DIODESOD-323F             SOD-323F     Diode                                               
+DONGLE                 SMD5                      SMD2,54-5,08 SMD PAD                                             
+EB                     SMD5                      SMD2,54-5,08 SMD PAD                                             
+GND                    SMD5                      SMD2,54-5,08 SMD PAD                                             
+IR+                    SMD5                      SMD2,54-5,08 SMD PAD                                             
+IR-                    SMD5                      SMD2,54-5,08 SMD PAD                                             
+IRD                    SMD5                      SMD2,54-5,08 SMD PAD                                             
+JP1                    M05X2SHD                  2X5-SHROUDED Header 5x2                                          
+MMBT3906 Q1            MMBTA56-SOT23             SOT23        PNP Transistor                                      
+PB                     SMD5                      SMD2,54-5,08 SMD PAD                                             
+PO                     SMD5                      SMD2,54-5,08 SMD PAD                                             
+PWR                    SMD5                      SMD2,54-5,08 SMD PAD                                             
+R1       10k           RESISTOR0603              0603-RES     Resistor                                            
+R2       10k           RESISTOR0603-RES          0603-RES     Resistor                                            
+R3       100           RESISTOR0603              0603-RES     Resistor                                            
+R4       10k           RESISTOR0603-RES          0603-RES     Resistor                                            
+SL                     SMD5                      SMD2,54-5,08 SMD PAD                                             
+U1       Tiny85-20-SMT ATTINY45TINY85-20-SMT     SO08-EIAJ    Atmel 8-pin 2/4/8kB flash uC IC-09092  Tiny85-20-SMT
